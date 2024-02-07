@@ -4,6 +4,6 @@ este repositorio se usará para una practica
 
 
 NOMBRE		GITHUB
-Juan Luis	https://github.com/JuluVi/DEAW
-Josias 		https://github.com/JosiasMartinez/DEAW
-Sergio		https://github.com/Seruel/DEAW
+Juan Luis	https://github.com/JuluVi/DEAW \n
+Josias 		https://github.com/JosiasMartinez/DEAW \n
+Sergio		https://github.com/Seruel/DEAW \n
